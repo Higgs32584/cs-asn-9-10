@@ -9,3 +9,5 @@ INSERT INTO Band_Geek(id,FirstName,LastName,Instrument,Shirt_size,Pant_size) VAL
 INSERT INTO Band_Geek(id,FirstName,LastName,Instrument,Shirt_size,Pant_size) VALUES(8,'Pearl','Krabs', 'Saxophone','M','L');
 UPDATE Band_geek set Shirt_size = 'XL', Pant_size='L' where id=8;
 DELETE from Band_geek WHERE id=8;
+SELECT id,Pant_size FROM Band_geek WHERE FirstName='Squidward'
+SELECT * FROM Band_geek;
