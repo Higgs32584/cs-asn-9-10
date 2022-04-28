@@ -1,0 +1,8 @@
+CREATE TABLE Band_Geek(id int,FirstName varchar(20),LastName varchar(20),Instrument varchar(20),Shirt_size varchar(4),Pant_size varchar(4));
+INSERT INTO Band_Geek(id,FirstName,LastName,Instrument,Shirt_size,Pant_size) VALUES(1,'Squidward','Tentacles', 'Director','S',NULL);
+INSERT INTO Band_Geek(id,FirstName,LastName,Instrument,Shirt_size,Pant_size) VALUES(2,'Sponge','Bob', 'Singer','M','M');
+INSERT INTO Band_Geek(id,FirstName,LastName,Instrument,Shirt_size,Pant_size) VALUES(3,'Patrick','Star', 'Drum Set','XL','XXL');
+INSERT INTO Band_Geek(id,FirstName,LastName,Instrument,Shirt_size,Pant_size) VALUES(4,'Sandy','Cheeks', 'Electric Guitar','S','S');
+INSERT INTO Band_Geek(id,FirstName,LastName,Instrument,Shirt_size,Pant_size) VALUES(5,'Poppy','Puff', 'Electric Guitar','XXXL','XXL');
+INSERT INTO Band_Geek(id,FirstName,LastName,Instrument,Shirt_size,Pant_size) VALUES(6,'Sheldon','Plankton', 'Keyboard Piano','XS','XXS');
+INSERT INTO Band_Geek(id,FirstName,LastName,Instrument,Shirt_size,Pant_size) VALUES(6,'Sheldon','Plankton', 'Keyboard Piano','XS','XXS');
